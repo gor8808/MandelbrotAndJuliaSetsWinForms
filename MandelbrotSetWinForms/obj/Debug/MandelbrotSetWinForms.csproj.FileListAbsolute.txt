@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWinForms\MandelbrotSetWinForms\bin\Debug\MandelbrotSetWinForms.exe.config
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWinForms\MandelbrotSetWinForms\bin\Debug\MandelbrotSetWinForms.exe
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWinForms\MandelbrotSetWinForms\bin\Debug\MandelbrotSetWinForms.pdb
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWinForms\MandelbrotSetWinForms\obj\Debug\MandelbrotSetWinForms.Form1.resources
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWinForms\MandelbrotSetWinForms\obj\Debug\MandelbrotSetWinForms.Properties.Resources.resources
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWinForms\MandelbrotSetWinForms\obj\Debug\MandelbrotSetWinForms.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWinForms\MandelbrotSetWinForms\obj\Debug\MandelbrotSetWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWinForms\MandelbrotSetWinForms\obj\Debug\MandelbrotSetWinForms.exe
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWinForms\MandelbrotSetWinForms\obj\Debug\MandelbrotSetWinForms.pdb
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWinForms\MandelbrotSetWinForms\obj\Debug\MandelbrotSetWinForms.Form2.resources
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWinForms\MandelbrotSetWinForms\obj\Debug\MandelbrotSetWinForms.UserControl1.resources
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSetWinForms\MandelbrotSetWinForms\obj\Debug\MandelbrotSetWinForms.csprojAssemblyReference.cache
